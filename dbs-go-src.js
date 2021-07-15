@@ -26,7 +26,7 @@ document.getElementById("d2").appendChild(frame)
 var p = location.search.substring().split('');
 p.splice(0,1)
 p=str(p);
-document.getElementById('frm').src="dbs-website-go/pull.html?" + p;
+document.getElementById('frm').src="https://dobbs-public-school.github.io/dbs-website-go/html-src-contents" + p + ".html";
 
 function str(q) {
   var a = '';
