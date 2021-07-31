@@ -13,5 +13,9 @@
 # Everything on go is controlled by admin on www.dobbsschool.com/go?settings
 
 # imaging the go architechture
+   
+![img1](images/img1.png)
+   
+![img2](images/img2.png)
   
   
